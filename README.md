@@ -1,4 +1,3 @@
-[README-cpp.md](https://github.com/user-attachments/files/25825380/README-cpp.md)
 # Projets C++ — BTS CIEL
 
 Exercices et travaux pratiques de C++ réalisés en première année de BTS CIEL à Campus Ozanam (Lille), avec CodeLite.
